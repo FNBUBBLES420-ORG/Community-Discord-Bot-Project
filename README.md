@@ -19,3 +19,5 @@ To view dashboard
 - `People Who Contributed To This Discord Bot` 
 
 ## And when your twitch profile photo and twitch link will be added to also help get more engagement to your channels & or github page
+
+## Coded In `Node.JS`
