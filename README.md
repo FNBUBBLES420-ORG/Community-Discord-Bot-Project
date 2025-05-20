@@ -47,4 +47,4 @@ Your impact will be **visible and celebrated** across the community! 🎖️
 Your skills, creativity, and passion are what make this bot special. Whether you’re a developer, gamer, or community member, **you have a role here!**  
 
 Let’s build something amazing – **together.** 💬✨  
-[Discord Invite Page](https://discord.fnbubbles420.org/invite)
+[https://discord.gg/FxJd3PxXbc](https://discord.gg/FxJd3PxXbc)
